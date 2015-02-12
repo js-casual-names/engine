@@ -1,0 +1,29 @@
+{
+  "name": "game-engine",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://antonellopasella@github.com/js-game-algorithms/master-engine.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "javascript"
+  ],
+  "author": "Antonello Pasella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-game-algorithms/master-engine/issues"
+  },
+  "homepage": "https://github.com/js-game-algorithms/master-engine",
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-jshint": "^1.9.2",
+    "jshint-stylish": "^1.0.0"
+  }
+}
